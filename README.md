@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-💬 About me
 
+#### 💬 About me
 - 🌱 I'm a Github newbie
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
