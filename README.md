@@ -1,14 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-Here are some ideas to get you started:<br>
+<a href="https://github.com/cms6090">
+    <img 
+        src="http://img.shields.io/badge/-Github-5F5F5F?style=flat&logo=Github&link=https://github.com/cms6090"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a><br>
 
-#### 💬 About me
+## 💬 About me
 - 🌱 I'm a Github newbie
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcms6090&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
+- 🤖 My major is Computer Science
+- 📖 I’m currently learning Data analysis
+
+  
